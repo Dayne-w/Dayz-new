@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayz-new&layout=compact)](https://github.com/Dayz-new)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=C++&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-0095D5?style=flat-square&logo=C++&logoColor=white"/></a>
 
